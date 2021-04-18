@@ -1,6 +1,7 @@
 import React from "react";
 
-function Aboout() {
+function Aboout(props) {
+  console.log(props);
   return (
     <div className="about__container">
       <span>
