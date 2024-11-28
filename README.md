@@ -1,3 +1,3 @@
-# Movie App (Third time)
+# Movie App 
 
-making Movie App using React!
+Making movie app using React
